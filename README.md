@@ -15,7 +15,7 @@ that, on submit, will display a project card containing each input.
 
 -- Project cards drag, but do not drop.
 -- Delete button is not functional.
--- Project card displays inproperly.
+-- Project card displays improperly.
 ![alt text](assets/images/Screenshot%202024-04-04%20234614.png)
 
 ## Upcoming Features
