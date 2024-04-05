@@ -8,7 +8,18 @@ body {
 }
 
 .task-card {
+  border: none;
+  background-color:antiquewhite;
   margin: 0 auto;
+}
+
+.task-title {
+  background-color: #f8f9fa;
+}
+
+.task-list {
+  list-style: none;
+  margin: 20px;
 }
 
 .task-card:hover {
